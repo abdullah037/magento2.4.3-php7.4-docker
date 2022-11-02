@@ -4,7 +4,7 @@
 git clone https://github.com/abdullah037/magento2.4.3-php7.4-docker.git
 
 ##  Run setup.sh
-sudo chmod +x setup.sh
+sudo chmod +x setup.sh THEN RUN 
 ./setup.sh
 
 ## Run compose file
